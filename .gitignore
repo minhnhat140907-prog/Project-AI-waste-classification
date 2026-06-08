@@ -1,0 +1,6 @@
+venv/
+quan/
+__pycache__/
+*.pyc
+images_detected/
+.env
